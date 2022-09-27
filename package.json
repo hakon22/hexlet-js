@@ -2,23 +2,22 @@
   "name": "hexlet",
   "version": "1.0.0",
   "type": "module",
-  "description": "Мой первый проект на Хекслете",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanya-romashkevich/hexlet-js.git"
+    "url": "git+https://github.com/hakon22/hexlet-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vanya-romashkevich/hexlet-js/issues"
+    "url": "https://github.com/hakon22/hexlet-js/issues"
   },
-  "homepage": "https://github.com/vanya-romashkevich/hexlet-js#readme",
+  "homepage": "https://github.com/hakon22/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
-  },
-  "keywords": []
+  }
 }
